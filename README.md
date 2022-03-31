@@ -73,4 +73,4 @@ Each user will have their own list to access and implements all CRUD operations 
 - After exiting the admin menu. The user menu will open and functions the same as seen above 
 
 ![](Project1%20images/quiting%20the%20application.PNG)
-
+- Return to home menu, log off and quit to exit the application.
