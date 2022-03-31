@@ -59,7 +59,8 @@ Each user will have their own list to access and implements all CRUD operations 
 
 ![](Project1%20images/Sword%20table.PNG)
 ![](Project1%20images/Adding%20to%20my%20list.PNG)
-- After inputing 'Sword' as the search term. A query will be executed to search all data in the database that contains the searched input. To search for a more specific data. There is a unique ID designated to each data that can also be found on the 'myanimelist.net' website
+- After inputing 'Sword' as the search term. A query will be executed to search all data in the database that contains the searched input. 
+- To search for a more specific data. There is a unique ID designated to each data that can also be found on the 'myanimelist.net' website
 
 ![](Project1%20images/logging%20off.PNG)
 ![](Project1%20images/Admin%20account.PNG)
