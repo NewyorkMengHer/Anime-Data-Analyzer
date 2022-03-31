@@ -39,3 +39,37 @@ Each user will have their own list to access and implements all CRUD operations 
 - Download https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 
 ## Usage
+![](Project1%20images/created%20account.PNG)
+![](Project1%20images/Logging%20in.PNG)
+- After logging in successfully. The user is brought to the home screen where they can choose to enter their profile or execute queries.
+All new users created will have basic level permissions and only admins are allowed to give admin to other accounts.
+
+
+![](Project1%20images/Executing%20querty.PNG)
+- From here, if there are any queries written and saved to the Hive database, the user can execute them by entering the "Execute Query" menu
+
+![](Project1%20images/Entering%20profile%20screen.PNG)
+- A user menu will pop up and from here the user can choose one of the following options
+
+![](Project1%20images/Changing%20username.PNG)
+- The user will have access to change their username & password as well as access their own list. 
+
+![](Project1%20images/Search%20Feature.PNG)
+- This search feature helps users find a particular data or a list of data from a database to add to their list.
+
+![](Project1%20images/Sword%20table.PNG)
+![](Project1%20images/Adding%20to%20my%20list.PNG)
+- After inputing 'Sword' as the search term. A query will be executed to search all data in the database that contains the searched input. To search for a more specific data. There is a unique ID designated to each data that can also be found on the 'myanimelist.net' website
+
+![](Project1%20images/logging%20off.PNG)
+![](Project1%20images/Admin%20account.PNG)
+- If an admin account is logged in. An admin menu will pop up for the admin user and has a few more options to choose from. An admin can either delete or promote a basic user to admin status (they can demote or delete existing admins)
+
+![](Project1%20images/delete%20account.PNG)
+- In this case. We will be deleting the new user created from before
+
+![](Project1%20images/admin%20list.PNG)
+- After exiting admin menu. A user menu will pop up give same access to admin as any user
+
+![](Project1%20images/quiting%20the%20application.PNG)
+
