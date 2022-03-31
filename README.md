@@ -64,7 +64,8 @@ Each user will have their own list to access and implements all CRUD operations 
 
 ![](Project1%20images/logging%20off.PNG)
 ![](Project1%20images/Admin%20account.PNG)
-- If an admin account is logged in. An admin menu will pop up for the admin user and has a few more options to choose from. An admin can either delete or promote a basic user to admin status (they can demote or delete existing admins)
+- If an admin account is logged in. An admin menu will pop up for the admin user and has a few more options to choose from. 
+- An admin can either delete or promote a basic user to admin status (they can also demote or delete existing admins as well)
 
 ![](Project1%20images/delete%20account.PNG)
 - In this case. We will be deleting the new user created from before
