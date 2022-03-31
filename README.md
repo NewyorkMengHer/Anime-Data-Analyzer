@@ -41,8 +41,8 @@ Each user will have their own list to access and implements all CRUD operations 
 ## Usage
 ![](Project1%20images/created%20account.PNG)
 ![](Project1%20images/Logging%20in.PNG)
+- All new users created will have basic level permissions and only admins are allowed to give admin to other accounts.
 - After logging in successfully. The user is brought to the home screen where they can choose to enter their profile or execute queries.
-All new users created will have basic level permissions and only admins are allowed to give admin to other accounts.
 
 
 ![](Project1%20images/Executing%20querty.PNG)
