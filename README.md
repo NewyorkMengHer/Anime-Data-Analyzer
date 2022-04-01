@@ -20,7 +20,7 @@ Each user will have their own list to access and implements all CRUD operations 
 - Cannot add, update, or delete data from queries
 - Promote basic users to admins, and delete basic users
 - Can change own username and password
-- Default admin account created on initialization
+- Default basic account created on initialization
 - Hive tables implement bucketing and partitioning
 - Creates a personal list for each user 
 - Can add or delete data from list
