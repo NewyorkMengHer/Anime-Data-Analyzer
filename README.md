@@ -52,7 +52,7 @@ Each user will have their own list to access and implements all CRUD operations 
 - A user menu will pop up and from here the user can choose one of the following options
 
 ![](Project1%20images/Changing%20username.PNG)
-- The user will have access to change their username & password as well as access their own list. 
+- The user will have access to change their username & password as well as access to their own list. 
 
 ![](Project1%20images/Search%20Feature.PNG)
 - This search feature helps users find a particular data or a list of data from a database to add to their list.
