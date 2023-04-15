@@ -1,4 +1,4 @@
-# Project1 myanimelist API
+# Anime Data Analyzer
 
 Project1 uses the myanimelist.net API dataset downloaded to a csv file, storing it in hive, and analyzes 
 it using a CLI application written in Scala with a user management and access system for basic and admin users.
