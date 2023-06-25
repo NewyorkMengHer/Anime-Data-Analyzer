@@ -1,8 +1,6 @@
 # Anime Data Analyzer
 
-Project1 uses the myanimelist.net API dataset downloaded to a csv file, storing it in hive, and analyzes 
-it using a CLI application written in Scala with a user management and access system for basic and admin users.
-Each user will have their own list to access and implements all CRUD operations to that list.
+Project1 utilizes the myanimelist.net API dataset downloaded to a CSV file, stores it in Hive, and analyzes it using a CLI application written in Scala. The application includes a user management and access system for basic and admin users, where each user has their own list to access and implements all CRUD operations on that list.
 
 ## Technologies
 - Java - version 1.8.0_311
